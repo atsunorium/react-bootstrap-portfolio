@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-bootstrap-portfolio/static/css/main.fe5b4d6d.css",
-    "main.js": "/react-bootstrap-portfolio/static/js/main.d328c953.js",
-    "static/media/dtp4.jpg": "/react-bootstrap-portfolio/static/media/dtp4.84fe0da91c2d1730ab83.jpg",
-    "static/media/dtp6.jpg": "/react-bootstrap-portfolio/static/media/dtp6.82b2f853dced7637dc8c.jpg",
-    "static/media/dtp1.jpg": "/react-bootstrap-portfolio/static/media/dtp1.749a6b4b975ae3f30286.jpg",
-    "static/media/dtp5.jpg": "/react-bootstrap-portfolio/static/media/dtp5.191f7e305938e016a8e8.jpg",
-    "static/media/dtp2.jpg": "/react-bootstrap-portfolio/static/media/dtp2.79c6659e54ca4bae2d08.jpg",
-    "static/media/dtp3.jpg": "/react-bootstrap-portfolio/static/media/dtp3.65d04af2acf536f0e5af.jpg",
-    "static/media/profile.jpg": "/react-bootstrap-portfolio/static/media/profile.edd4c8e341d38db2ad77.jpg",
-    "static/media/php.svg": "/react-bootstrap-portfolio/static/media/php.ba7be0179e7787d4fbd18df83d0c0943.svg",
-    "static/media/react.svg": "/react-bootstrap-portfolio/static/media/react.e27571eaed899c642345e71163624ef9.svg",
-    "static/media/laravel.svg": "/react-bootstrap-portfolio/static/media/laravel.c3b0c294b4e89297f2292f3378bc202d.svg",
-    "index.html": "/react-bootstrap-portfolio/index.html",
-    "static/media/illustrator.svg": "/react-bootstrap-portfolio/static/media/illustrator.5609bf0bdc6ceceaf7a0505e563d7603.svg",
-    "main.fe5b4d6d.css.map": "/react-bootstrap-portfolio/static/css/main.fe5b4d6d.css.map",
-    "main.d328c953.js.map": "/react-bootstrap-portfolio/static/js/main.d328c953.js.map"
+    "main.css": "./static/css/main.fe5b4d6d.css",
+    "main.js": "./static/js/main.df43e36a.js",
+    "static/media/dtp4.jpg": "./static/media/dtp4.84fe0da91c2d1730ab83.jpg",
+    "static/media/dtp6.jpg": "./static/media/dtp6.82b2f853dced7637dc8c.jpg",
+    "static/media/dtp1.jpg": "./static/media/dtp1.749a6b4b975ae3f30286.jpg",
+    "static/media/dtp5.jpg": "./static/media/dtp5.191f7e305938e016a8e8.jpg",
+    "static/media/dtp2.jpg": "./static/media/dtp2.79c6659e54ca4bae2d08.jpg",
+    "static/media/dtp3.jpg": "./static/media/dtp3.65d04af2acf536f0e5af.jpg",
+    "static/media/profile.jpg": "./static/media/profile.edd4c8e341d38db2ad77.jpg",
+    "static/media/php.svg": "./static/media/php.ba7be0179e7787d4fbd18df83d0c0943.svg",
+    "static/media/react.svg": "./static/media/react.e27571eaed899c642345e71163624ef9.svg",
+    "static/media/laravel.svg": "./static/media/laravel.c3b0c294b4e89297f2292f3378bc202d.svg",
+    "static/media/illustrator.svg": "./static/media/illustrator.5609bf0bdc6ceceaf7a0505e563d7603.svg",
+    "index.html": "./index.html",
+    "main.fe5b4d6d.css.map": "./static/css/main.fe5b4d6d.css.map",
+    "main.df43e36a.js.map": "./static/js/main.df43e36a.js.map"
   },
   "entrypoints": [
     "static/css/main.fe5b4d6d.css",
-    "static/js/main.d328c953.js"
+    "static/js/main.df43e36a.js"
   ]
 }
