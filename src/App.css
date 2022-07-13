@@ -72,7 +72,9 @@ img {
   margin-bottom: 60px;
 }
 
-#skill img {
+#skill img,
+.appIcon {
+  display: inline-block;
   object-fit: cover;
   margin-bottom: 20px;
   margin-top: 20px;

@@ -4,6 +4,8 @@ import illustratorImage from "../Images/illustrator.svg";
 import jsImage from "../Images/js.png";
 import phpImage from "../Images/php.svg";
 import profileImage from "../Images/profile.jpg";
+import laravelImage from "../Images/laravel.svg";
+import reactImage from "../Images/react.svg";
 
 
 const HomePage = () => {
@@ -14,7 +16,7 @@ const HomePage = () => {
       <img src={profileImage} className="profileImage" />
 
       <p>
-      飛髙 篤実(ひたか あつのり)です。1990年生まれ。大分県出身。高校卒業後、3年生の専門学校で学び作業療法士国家資格を取得。県内の病院に就職し、リハビリテーション部で作業療法士として勤務。2019年に退職後、職業訓練校でWebデザインの基礎を学び、IT関連の会社にWebデザイナー&コーダーとして転職。HP制作のコーディングを中心に担当。主にHTML/CSS/JavaScript/PHPメインに取り扱っています。趣味は読書、アジングです。
+      飛髙 篤実(ひたか あつのり)です。1990年生まれ。大分県大分市出身。高校卒業後、3年生の専門学校で学び作業療法士国家資格を取得。県内の病院に就職し、リハビリテーション部で作業療法士として勤務。2019年に退職後、職業訓練校でWebデザインの基礎を学び、IT関連の会社にWebデザイナー&コーダーとして転職。HP制作のコーディングを中心に担当。主にHTML/CSS/JavaScript/PHPメインに取り扱っています。趣味は読書、アジングです。
       </p>
 
       <section class="page-section" id="services">
@@ -68,6 +70,37 @@ const HomePage = () => {
 
           </div>
 
+          <div class="row text-center">
+            <div class="col-md-4">
+            <a href="https://portfolio03.hitaka-design.com/portfolio03/public/login" target="_blank">
+              <div>
+                <img src={laravelImage} className="appIcon"/>
+              </div>
+              <h4 class="my-3">Laravelアプリ</h4>
+              </a>
+              <p class="text-muted">
+                学習用にLaravelで本登録サイトを作成しました。以下のログイン名とパスワードで入れます。
+                <ul>
+                  <li>ログインメールアドレス:test@test.com</li>
+                  <li>ログインパスワード:12345678</li>
+                </ul>
+              </p>
+            </div>
+
+            <div class="col-md-4">
+            <a href="https://pokemon-app-rho-six.vercel.app/" target="_blank">
+              <div>
+                <img src={reactImage} className="appIcon"/>
+              </div>
+              <h4 class="my-3">Reactアプリ</h4>
+              </a>
+              <p class="text-muted">
+                学習用にPokemonAPIで、ポケモン図鑑を作成しました。
+              </p>
+            </div>
+
+          </div>
+
         </div>
       </section>
 
@@ -77,8 +110,8 @@ const HomePage = () => {
           <div class="row text-center">
             <div class="col-md-4 services">
               <img src={illustratorImage} />
-              <h4>Adobe</h4>
-              <p>Illustrator / Photoshopが使えます。</p>
+              <h4>デザインツール</h4>
+              <p>Illustrator / Photoshop / Figmaが使えます。</p>
             </div>
             <div class="col-md-4 services">
               <img src={jsImage} />
