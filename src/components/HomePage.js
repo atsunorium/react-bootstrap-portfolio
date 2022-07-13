@@ -79,7 +79,7 @@ const HomePage = () => {
               <h4 class="my-3">Laravelアプリ</h4>
               </a>
               <p class="text-muted">
-                学習用にLaravelで本登録サイトを作成しました。以下のログイン名とパスワードで入れます。
+                学習用にLaravelで本登録アプリを作成しました。以下のログイン名とパスワードで入れます。
                 <ul>
                   <li>ログインメールアドレス:test@test.com</li>
                   <li>ログインパスワード:12345678</li>
@@ -95,7 +95,7 @@ const HomePage = () => {
               <h4 class="my-3">Reactアプリ</h4>
               </a>
               <p class="text-muted">
-                学習用にPokemonAPIで、ポケモン図鑑を作成しました。
+                APIの学習用にPokemonAPIで、ポケモン図鑑を作成しました。
               </p>
             </div>
 
