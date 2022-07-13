@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom';
 import illustratorImage from "../Images/illustrator.svg";
 import jsImage from "../Images/js.png";
 import phpImage from "../Images/php.svg";
