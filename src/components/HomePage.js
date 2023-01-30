@@ -11,12 +11,12 @@ import reactImage from "../Images/react.svg";
 const HomePage = () => {
   return (
     <div className="container text-center">
-      <h1>Hitaka Atsunori</h1>
+      <h1>H.A PORTFOLIO</h1>
 
       <img src={profileImage} className="profileImage" />
 
       <p>
-      飛髙 篤実(ひたか あつのり)です。1990年生まれ。大分県大分市出身。高校卒業後、3年生の専門学校で学び作業療法士国家資格を取得。県内の病院に就職し、リハビリテーション部で作業療法士として勤務。2019年に退職後、職業訓練校でWebデザインの基礎を学び、IT関連の会社にWebデザイナー&コーダーとして転職。HP制作のコーディングを中心に担当。主にHTML/CSS/JavaScript/PHPメインに取り扱っています。趣味は読書、アジングです。
+      1990年生まれ。大分県大分市出身。高校卒業後、3年生の専門学校で学び作業療法士国家資格を取得。県内の病院に就職し、リハビリテーション部で作業療法士として勤務。2019年に退職後、職業訓練校でWebデザインの基礎を学び、IT関連の会社にWebデザイナー&コーダーとして転職。HP制作のコーディングを中心に担当。主にHTML/CSS/JavaScript/PHPメインに取り扱っています。趣味は読書、アジングです。
       </p>
 
       <section class="page-section" id="services">
